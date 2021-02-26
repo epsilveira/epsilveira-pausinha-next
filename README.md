@@ -63,4 +63,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-<p align="center">README based on [Guilherme Capitão](https://github.com/guilhermecapitao/nlw04-moveit-web/blob/master/README.md)</p>
+README based on [Guilherme Capitão](https://github.com/guilhermecapitao/nlw04-moveit-web/blob/master/README.md)
